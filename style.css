@@ -1,0 +1,75 @@
+.flexbox1
+{
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+header ul li
+{
+	padding:10px;
+}
+
+li
+{
+	list-style: none;
+}
+
+a
+{
+	color: #787878;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: blue;
+}
+
+span
+{
+	color: blue;
+}
+
+body section img
+{
+	display: block;
+	padding-top:  200px;
+	padding-bottom: 50px;
+	margin: 0 auto;
+}
+
+form
+{
+	text-align: center;
+	padding-bottom: 40px;
+	border-radius: 10px;
+}
+
+input[type="text"]
+{
+	padding: 10px;
+	font-size: 20px;
+	margin-right: 20px;
+	border: 2px solid #ddd;
+	border-radius: 3px;
+	box-shadow: 5px 5px 5px #787878;
+}
+
+.flexbox2
+{
+	display: flex;
+}
+
+.flexbox3
+{
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+footer
+{
+	background-color: #F3F0F6;
+	padding-top: 150px;
+	opacity: 0.5;
+}
+
